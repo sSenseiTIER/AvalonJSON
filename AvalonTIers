@@ -6,13 +6,11 @@
     "Test311": "HT3, <@823659261183262730>, SA",
     "DUKOOOOOO": "HT4, <@826586739862405140>, SA"
   },
-  "Nethpot": {
+  "NetheritePot": {
+    "Vayju": "LT3, <@823659261183262730>, SA",
     "Player4": "HT2, <@444444>, SA"
   },
-  "Vanilla": {
+  "CrystalPvP": {
     "Player3": "LT3, <@333333>, EU"
-  },
-  "NetheritePot": {
-    "Vayju": "LT3, <@823659261183262730>, SA"
   }
 }
